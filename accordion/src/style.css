@@ -1,0 +1,27 @@
+body {
+}
+.accordion {
+  background-color: red;
+  position: absolute;
+  top: 10rem;
+  left: 10rem;
+  bottom: 50rem;
+}
+.accordion-item {
+  background-color: rgb(62, 245, 184);
+  border: 1px solid;
+}
+.accordion-title {
+  background-color: rgb(235, 183, 174);
+  display: inline-block;
+
+  width: 100%;
+}
+.accordion-content {
+  background-color: rgb(209, 195, 241);
+}
+.toggle-btn {
+  margin-left: 1rem;
+  display: inline-block;
+  width: max-content;
+}
