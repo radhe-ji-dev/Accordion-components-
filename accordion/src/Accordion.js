@@ -9,7 +9,7 @@ const Accordion = ({ title, content }) => {
         <div>
           {title}
           <div className="toggle-btn" onClick={() => setIsActive(!isActive)}>
-            {isActive ? "V" : "^"}
+            {isActive ? "^" : "v"}
           </div>
         </div>
       </div>

@@ -11,4 +11,8 @@ export const accordionData = [
     title: "This is Section 3",
     content: `contents of section 3`,
   },
+  {
+    title: "This is Section 3",
+    content: `contents of section 3`,
+  },
 ];
